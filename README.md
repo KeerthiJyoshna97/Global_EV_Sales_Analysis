@@ -15,10 +15,6 @@ This Power BI dashboard presents a comprehensive analysis of global electric veh
 - Excel/CSV data (if applicable)
 - GitHub (for versioning and documentation)
 
-## 📁 File
-
-- `Global EV Sales by KJ.pbix`: Power BI dashboard fill
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file.
